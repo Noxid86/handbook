@@ -46,6 +46,7 @@ to maintain discipline and accountability for the things we believe.
 ## Operations
 * [Expense Tracking and Reimbursement](https://github.com/devmynd/handbook/blob/master/Operations/Expense%20Tracking%20and%20Reimbursement.md)
 * [Feedback](https://github.com/devmynd/handbook/blob/master/Operations/Feedback.md)
+* [Guidebooks](https://devmynd.com/guidebooks)
 
 # Changes and Contribution
 
