@@ -1,3 +1,21 @@
-# Acknowledgement of Receipt
+# Acknowledgement of Receipt of DevMynd Team Handbook
 
-[TODO]
+I acknowledge that I have received a copy of the DevMynd Team Handbook, have read it, and understand its provisions.  I further understand that if I have a question, I am obligated to ask a member of the management team for clarification of any provisions in the handbook.
+
+I further understand that the statements contained in the handbook do not create any contractual or other legal obligations of employment.  I also understand that DevMynd may at any time modify, rescind, or revise any policy, benefit, or practice described in the handbook, except for its policy of at-will employment.
+
+I understand and agree that my employment with DevMynd is at-will and can be terminated by either me or the company without cause or notice and that nothing in the handbook should be interpreted to the contrary. This is the entire agreement between me and DevMynd on this subject; it supersedes any prior inconsistent representations or agreements and may only be modified in a writing signed by me and the CEO.
+
+I acknowledge that it is my responsibility to read and become familiar with the contents of the handbook.
+
+```
+
+Date: ________________________
+
+
+Print Name: ________________________
+
+
+Signature: ________________________
+
+```
