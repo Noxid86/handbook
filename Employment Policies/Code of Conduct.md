@@ -8,4 +8,4 @@ Harassment includes offensive verbal comments related to gender, sexual orientat
 
 Be careful in the words that you choose. Remember that sexist, racist, and other exclusionary statements and jokes can be offensive to those around you. Offensive speech is not appropriate and will be considered a serious matter.
 
-Individuals asked to stop any harassing behavior are expected to comply immediately. If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact JC (jc@devmynd.com) or one of the other members of the leadership team immediately.
+Individuals asked to stop any harassing behavior are expected to comply immediately. If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact JC (jc@devmynd.com) or one of the other members of the management team immediately.
