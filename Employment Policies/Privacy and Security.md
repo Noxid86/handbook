@@ -44,4 +44,8 @@ Employees may not share passwords related to company business with anyone, inclu
 
 All employees **must** keep the hard disks on their computers encrypted, OR keep all work related content (including source code) on an encrypted partition.  This requirement applies equally to company owned devices or to personal devices being used for company purposes.  All computers should have a strong password which is required at login and also on a regular basis when the computer goes to sleep or is otherwise left unattended for a period of time.
 
-If any company computer or personal computer being used for company purposes is lost or stolen this must be brought to the attention of the management immediately.  Information provided to DevMynd by it's clients is covered under strict non-disclosure agreements and all breeches must be communicated and handled expeditiously.
+## Breaches or Loss of Data
+
+Information provided to DevMynd by it's clients is covered under strict non-disclosure agreements and all breeches must be communicated and handled expeditiously.  This applies to any scenario in which you believe that sensitive information may have become available to the public.
+
+If any company computer or personal computer being used for company purposes is lost or stolen this must be brought to the attention of the management immediately.
