@@ -10,12 +10,9 @@ I acknowledge that it is my responsibility to read and become familiar with the 
 
 ```
 
-Date: ________________________
+Employee Name: __________________________
 
 
-Print Name: ________________________
-
-
-Signature: ________________________
+Signature: _________________________   Date: _______________
 
 ```

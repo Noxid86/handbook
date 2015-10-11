@@ -30,14 +30,14 @@ We are not the first to make our company handbook available as open source.  But
 * [Profit Sharing](https://github.com/devmynd/handbook/blob/master/Benefits%20and%20Perks/Profit%20Sharing.md)
 * [Retirement Plan](https://github.com/devmynd/handbook/blob/master/Benefits%20and%20Perks/Retirement%20Plan.md)
 
-## Hiring and Onboarding Documents
+## Hiring Documents
 
 _These forms can be digitally signed through Zenefits and are provided here for reference._
 
-* [Acknowledgement of Receipt](https://github.com/devmynd/handbook/blob/master/Hiring%20and%20Onboarding%20Documents/Acknowledgement%20of%20Receipt.md)
-* [Employment Agreement](https://github.com/devmynd/handbook/blob/master/Hiring%20and%20Onboarding%20Documents/Employment%20Agreement.md)
-* [Intellectual Property Agreement](https://github.com/devmynd/handbook/blob/master/Hiring%20and%20Onboarding%20Documents/Intellectual%20Property%20Agreement.md)
-* [Non-Disclosure Agreement](https://github.com/devmynd/handbook/blob/master/Hiring%20and%20Onboarding%20Documents/Non-Disclosure%20Agreement.md)
+* [Acknowledgement of Receipt](https://github.com/devmynd/handbook/blob/master/Hiring%20Documents/Acknowledgement%20of%20Receipt.md)
+* [Confidentiality Agreement](https://github.com/devmynd/handbook/blob/master/Hiring%20Documents/Confidentiality%20Agreement.md)
+* [Employment Agreement](https://github.com/devmynd/handbook/blob/master/Hiring%20Documents/Employment%20Agreement.md)
+* [Intellectual Property Agreement](https://github.com/devmynd/handbook/blob/master/Hiring%20Documents/Intellectual%20Property%20Agreement.md)
 
 ## Operations
 * [Data Security](https://github.com/devmynd/handbook/blob/master/Operations/Data%20Security.md)
