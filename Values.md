@@ -1,26 +1,25 @@
 # DevMynd Values
 
-
 ## Ship Quality Work
 
-We take pride in our workmanship and strive for sustainable and maintainable solutions. We resist compromise, “measure twice, cut once”, attend to detail, and validate our work.
+We take pride in our work and strive for sustainable and maintainable solutions. We resist compromise, attend to detail, and validate our work.
 
 ## Open the Door
 
-Our team members help others before ourselves. We are inclusive and value diversity. Feedback and encouragement is provided constructively and gently. We always work together.
+We help each other, we value diversity, and we are inclusive. We provide feedback and encouragement constructively, gently, and often. Above all, we work together.
 
 ## Remain Optimistic
 
-The team at DevMynd enjoys their work. We have learned to remain cool under pressure and to fix things rather than complain about them.
+We want everyone on the team to enjoy their work. We remain cool under pressure. We talk about what needs fixing, and we fix it.
 
 ## Act with Integrity
 
-We are highly visible, and we don't hide. We tend to over-communicate. We believe in doing the right thing, especially when it’s the hard thing, and to always be trustworthy.
+We believe in radical honesty and transparency with our clients. We do the right thing for the project, even when it’s the hard thing. We strive to be trustworthy.
 
 ## Focus on Business Value
 
-The DevMynd team gets stuff done! We say “no” when it’s right for the customer, and say “yes” whenever we can. We become experts in your business and are true consultants.
+The DevMynd team gets stuff done! We value true understanding of our customer's business. We help them find the right solution for their problem - even if it's not what they expected.
 
 ## Continuously Improve
 
-We grow our team through apprenticeship. We learn every day and we teach every day. Through humble introspection we gracefully fail fast and learn from our experience.
+We learn - and we teach - every day. We grow our junior developers through apprenticeship. We strive to make experimentation and learning, for everyone on the team, both expected and safe.
