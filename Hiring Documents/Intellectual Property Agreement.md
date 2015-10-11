@@ -8,7 +8,7 @@ I will provide to the Company, within ten (10) days of the Effective Date, a com
 
 ## 2. Use or Incorporation of Inventions
 
-If in the course of the Relationship, I use or incorporate into a product, process or machine any Invention not covered by Section 4(d) of this Agreement in which I have an interest, I will promptly so inform the Company. Whether or not I give such notice, I hereby irrevocably grant to the Company a nonexclusive, fully paid- up, royalty-free, assumable, perpetual, worldwide license, with right to transfer and to sublicense, to practice and exploit such Invention and to make, have made, copy, modify, make derivative works of, use, sell, import, and otherwise distribute such Invention under all applicable intellectual property laws without restriction of any kind.
+If in the course of the Relationship, I use or incorporate into a product, process or machine any Invention not covered by Section 4 of this Agreement in which I have an interest, I will promptly so inform the Company. Whether or not I give such notice, I hereby irrevocably grant to the Company a nonexclusive, fully paid- up, royalty-free, assumable, perpetual, worldwide license, with right to transfer and to sublicense, to practice and exploit such Invention and to make, have made, copy, modify, make derivative works of, use, sell, import, and otherwise distribute such Invention under all applicable intellectual property laws without restriction of any kind.
 
 ## 3. Inventions
 
@@ -20,7 +20,7 @@ I agree that I will promptly make full written disclosure to the Company, will h
 
 ## 5. Maintenance of Records
 
-I agree to keep and maintain any written records of Company Inventions made or conceived by me (solely or jointly with others) during the term of the Relationship. The records may be in the form of notes, sketches, drawings, flow charts, electronic data or recordings, laboratory notebooks, or any other format. The records will be available to and remain the sole property of the Company at all times. I agree not to remove such records from the Company's place of business except as expressly permitted by Company policy which may, from time to time, be revised at the sole election of the Company for the purpose of furthering the Company's business. I agree to deliver all such records (including any copies thereof) to the Company at the time of termination of the Relationship as provided for in Sections 5 and 6.
+I agree to keep and maintain any written records of Company Inventions made or conceived by me (solely or jointly with others) during the term of the Relationship. The records may be in the form of notes, sketches, drawings, flow charts, electronic data or recordings, laboratory notebooks, or any other format. The records will be available to and remain the sole property of the Company at all times. I agree not to remove such records from the Company's place of business except as expressly permitted by Company policy which may, from time to time, be revised at the sole election of the Company for the purpose of furthering the Company's business. I agree to deliver all such records (including any copies thereof) to the Company at the time of termination of the Relationship as provided for in the Employment Agreement.
 
 ## 6. Patent and Copyright Rights
 
