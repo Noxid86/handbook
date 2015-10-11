@@ -25,7 +25,7 @@ I acknowledge and agree that I have no expectation of privacy with respect to th
 
 ## 4. Termination Certification
 
-In the event of the termination of the Relationship, I agree to sign and deliver the “Termination Certification” attached hereto as Exhibit A; however, my failure to sign and deliver the Termination Certification shall in no way diminish my continuing obligations under this Agreement.
+In the event of the termination of the Relationship, I agree to sign and deliver the “Termination Certification” attached hereto as Schedule A; however, my failure to sign and deliver the Termination Certification shall in no way diminish my continuing obligations under this Agreement.
 
 ## 5. Solicitation of Employees, Consultants and Other Parties
 
@@ -105,6 +105,23 @@ Signature: _________________________   Date: _______________
 
 Employee
 
+
+Employee Name: __________________________
+
+
+Signature: _________________________   Date: _______________
+
+```
+
+# Schedule A: Termination Certification
+
+This is to certify that I, the undersigned, have returned all personal property of Clef, Inc.(the "Company"), including, without limitation, all source code listings, books, manuals, records, models, drawings, reports, notes, contracts, lists, blueprints, and other documents and materials, Proprietary Information, and equipment furnished to or prepared by me in the course of or incident to my employment with the Company, and that I did not make or distribute any copies of the foregoing.
+
+I further certify that I have reviewed the Employee Proprietary Information and Inventions Agreement (the "Agreement") signed by me and that I have complied with and will continue to comply with all of its terms, including, without limitation, (i) the reporting of any idea, process, invention, technology, writing, program, design, formula, discovery, patent, copyright, or trademark, or any improvement, rights, or claims related to the foregoing, conceived or developed by me and covered by the Agreement and (ii) the preservation as confidential of all Proprietary Information pertaining to the Company. This certificate in no way limits my responsibilities or the Company's rights under the Agreement.
+
+**Accepted and Agreed To:**
+
+```
 
 Employee Name: __________________________
 
