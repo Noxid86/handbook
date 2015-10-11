@@ -32,7 +32,7 @@ We are not the first to make our company handbook available as open source.  But
 
 ## Hiring Documents
 
-_These forms can be digitally signed through Zenefits and are provided here for reference._
+_These forms can be digitally signed through [Zenefits](https://zenefits.com/) and are provided here for reference._
 
 * [Acknowledgement of Receipt](https://github.com/devmynd/handbook/blob/master/Hiring%20Documents/Acknowledgement%20of%20Receipt.md)
 * [Confidentiality Agreement](https://github.com/devmynd/handbook/blob/master/Hiring%20Documents/Confidentiality%20Agreement.md)
