@@ -1,14 +1,5 @@
 # Intellectual Property Agreement
 
-```
-
-Employee Name: __________________________
-
-
-Effective Date: _________________________
-
-```
-
 This Intellectual Property Agreement (this “Agreement”) will apply to my employment or consulting relationship with the DevMynd Software, Inc an Illinois corporation and any of its current or future subsidiaries, affiliates, successors or assigns (collectively, the "Company"). Any such employment or consulting relationship between the parties hereto, whether commenced prior to, upon or after the date of this Agreement, is referred to herein as the “Relationship.”
 
 ## 1. Inventions Retained and Licensed
