@@ -6,7 +6,7 @@ Feedback, as we are using the term here, may refer to areas of strength ("I real
 
 ## Ad-hoc Feedback
 
-Anyone should feel comfortable providing feedback to any member of the team.  It is, after all, a part of one of our [core values](https://github.com/devmynd/handbook/blob/master/Values.md#open-the-door). We encourage feedback to be given constructively and gently. You can always use our [feedback template](https://github.com/devmynd/handbook/blob/master/Operations/Feedback%20Template.md) to structure the conversation, but an informal chat or a walk around the block may work just as well (or even better). Use your judgement. 
+Anyone should feel comfortable providing feedback to any member of the team.  It is, after all, a part of one of our [core values](https://github.com/devmynd/handbook/blob/master/Values.md#open-the-door). We encourage feedback to be given constructively and gently. You can always use our [feedback template](https://github.com/devmynd/handbook/blob/master/Operations/Feedback/Feedback%20Template.md) to structure the conversation, but an informal chat or a walk around the block may work just as well (or even better). Use your judgement.
 
 If you would like to provide feedback to a team member but don't know how, or don't feel comfortable, please speak with a member of the management team for guidance.
 
