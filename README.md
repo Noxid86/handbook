@@ -40,6 +40,7 @@ to maintain discipline and accountability for the things we believe.
 
 ## Hiring and Onboarding Documents
 * [Acknowledgement of Receipt](https://github.com/devmynd/handbook/blob/master/Hiring%20and%20Onboarding%20Documents/Acknowledgement%20of%20Receipt.md)
+* [Employment Agreement](https://github.com/devmynd/handbook/blob/master/Hiring%20and%20Onboarding%20Documents/Employment%20Agreement.md)
 * [Intellectual Property Agreement](https://github.com/devmynd/handbook/blob/master/Hiring%20and%20Onboarding%20Documents/Intellectual%20Property%20Agreement.md)
 * [Non-Disclosure Agreement](https://github.com/devmynd/handbook/blob/master/Hiring%20and%20Onboarding%20Documents/Non-Disclosure%20Agreement.md)
 
