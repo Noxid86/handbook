@@ -22,7 +22,7 @@ These feedback opportunities accomplish several goals:
 To help facilitate feedback that is both actionable and aligned with our [core values](https://github.com/devmynd/handbook/blob/master/Values.md) we have created a feedback template.  In particular, we will use this template when providing biannual feedback, though it may be used more frequently.  Not all parts of the template are needed or necessary for every type of feedback, the idea is to provide some structure to otherwise unstructured conversations.
 
 [View the Current Version of the Feedback
-Template](https://github.com/devmynd/handbook/blob/master/Operations/Expense%20Tracking%20and%20Reimbursement.md)
+Template](https://github.com/devmynd/handbook/blob/master/Operations/Feedback%20Template.md)
 
 ## Monthly One-on-Ones
 

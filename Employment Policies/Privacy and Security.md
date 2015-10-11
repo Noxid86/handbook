@@ -20,7 +20,7 @@ The email system is intended for official company business. If you send personal
 
 ## All Conduct Rules Apply to Email and Chat
 
-All of our policies and rules of conduct apply to employee use of the email, chat and other communication systems. This means, for example, that you may not use the email, chat, or other communication systems to send harassing or discriminatory messages, including messages with explicit sexual content or pornographic images; to send threatening messages; or to reveal company trade secrets.
+All of our [policies and rules of conduct](https://github.com/devmynd/handbook/blob/master/Employment%20Policies/Code%20of%20Conduct.md) apply to employee use of the email, chat and other communication systems. This means, for example, that you may not use the email, chat, or other communication systems to send harassing or discriminatory messages, including messages with explicit sexual content or pornographic images; to send threatening messages; or to reveal company trade secrets.
 
 ## Professional Tone and Content
 
