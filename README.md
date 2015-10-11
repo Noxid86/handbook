@@ -25,8 +25,8 @@ to maintain discipline and accountability for the things we believe.
 * [Code of Conduct](https://github.com/devmynd/handbook/blob/master/Employment%20Policies/Code%20of%20Conduct.md)
 * [Diversity and Equal Opportunity](https://github.com/devmynd/handbook/blob/master/Employment%20Policies/Diversity%20and%20Equal%20Opportunity.md)
 * [Drugs and Alcohol](https://github.com/devmynd/handbook/blob/master/Employment%20Policies/Drugs%20and%20Alcohol.md)
-* [Privacy and Security](https://github.com/devmynd/handbook/blob/master/Employment%20Policies/Privacy%20and%20Security.md)
 * [Work Time and Location](https://github.com/devmynd/handbook/blob/master/Employment%20Policies/Work%20Time%20and%20Location.md)
+* [Workplace Privacy](https://github.com/devmynd/handbook/blob/master/Employment%20Policies/Workplace%20Privacy.md)
 
 ## Benefits and Perks
 * [Computer Hardware](https://github.com/devmynd/handbook/blob/master/Benefits%20and%20Perks/Computer%20Hardware.md)
