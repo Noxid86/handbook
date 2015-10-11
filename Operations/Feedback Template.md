@@ -2,6 +2,8 @@
 
 The intent of this template is to provide a starting point for providing constructive and actionable feedback that is aligned with [DevMynd's values](https://github.com/devmynd/handbook/blob/master/Values.md).  It may not apply to all situations so user's are encouraged to pick and choose what parts are germane to the discussion at hand.  Each section below addresses a set of practices, standards, or expected behaviors.  A separate document linked from each section includes more detail about what the standards mean and how to interpret them.  If you would like to use this template but have any questions at all or would like advice please speak with a member of the management team.
 
+***
+
 ## Ships Quality Work
 
 <table>
@@ -132,3 +134,12 @@ The intent of this template is to provide a starting point for providing constru
     </tr>
   </tbody>
 </table>
+
+## Action Items
+
+_Please list any action items that come from the feedback discussion._
+
+## Personal Goals and Objectives
+
+_Please list any personal goals and objectives set during the feedbaack
+discussion._
