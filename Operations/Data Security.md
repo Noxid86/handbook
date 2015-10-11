@@ -8,7 +8,7 @@ If you believe your computer has been infected by a virus, worm, or other securi
 
 ## Password Security
 
-Employees may not share passwords related to company business with anyone, including coworkers or family members. Revealing passwords related to company or client systems could allow an outsider to attack DevMynd, it's clients, or obtain sensitive information.  We **strongly** recommend that you utilize a password manager such as [1Password](https://agilebits.com/onepassword) or [LastPass](https://lastpass.com/) and use strong passwords for all accounts.
+Employees may not share passwords related to company business with anyone, including coworkers or family members. Revealing passwords related to company or client systems could allow an outsider to attack DevMynd or its clients, or obtain sensitive information.  We **strongly** recommend that you utilize a password manager such as [1Password](https://agilebits.com/onepassword) and use strong passwords for all accounts.
 
 ## Production Secrets and Tokens
 
