@@ -26,26 +26,6 @@ All of our [policies and rules of conduct](https://github.com/devmynd/handbook/b
 
 We expect you to exercise discretion in using electronic communications. When you send email using a DevMynd email address or DevMynd social account, you are representing DevMynd. Make sure that your messages are professional and appropriate, in both tone and content. Remember, although email or social media may seem like a private conversation, they can be printed, saved, and forwarded to unintended recipients. You should not send any email/message/update/etc. that you wouldn’t want our team, your family, or our competitors to read.
 
-## Email Security
-
-To avoid email viruses, phishing for account information, and other threats, employees should not open email attachments from people and businesses they don’t recognize, particularly if the email appears to have been forwarded multiple times or has a nonexistent or peculiar subject heading. Even if you know the sender, do not open an email attachment that has a strange name or is not referenced in the body of the email; it may have been transmitted automatically, without the sender’s knowledge.
-
-If you believe your computer has been infected by a virus, worm, or other security threat to DevMynd’s system, you must inform the management immediately.
-
 ## Internet Use Is Not Private
 
 We reserve the right to monitor employee use of the Internet at any time. You should not expect that your use of the Internet—including but not limited to the sites you visit, the amount of time you spend online, and the communications you have—will be private.
-
-## Password Security
-
-Employees may not share passwords related to company business with anyone, including coworkers or family members. Revealing passwords related to company or client systems could allow an outsider to attack DevMynd, it's clients, or obtain sensitive information.  We **strongly** recommend that you utilize a password manager such as [1Password](https://agilebits.com/onepassword) or [LastPass](https://lastpass.com/) and use strong passwords for all accounts.
-
-## Laptop Encryption and Security
-
-All employees **must** keep the hard disks on their computers encrypted, OR keep all work related content (including source code) on an encrypted partition.  This requirement applies equally to company owned devices or to personal devices being used for company purposes.  All computers should have a strong password which is required at login and also on a regular basis when the computer goes to sleep or is otherwise left unattended for a period of time.
-
-## Breaches or Loss of Data
-
-Information provided to DevMynd by it's clients is covered under strict non-disclosure agreements and all breeches must be communicated and handled expeditiously.  This applies to any scenario in which you believe that sensitive information may have become available to the public.
-
-If any company computer or personal computer being used for company purposes is lost or stolen this must be brought to the attention of the management immediately.

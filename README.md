@@ -44,6 +44,7 @@ to maintain discipline and accountability for the things we believe.
 * [Non-Disclosure Agreement](https://github.com/devmynd/handbook/blob/master/Hiring%20and%20Onboarding%20Documents/Non-Disclosure%20Agreement.md)
 
 ## Operations
+* [Data Security](https://github.com/devmynd/handbook/blob/master/Operations/Data%20Security.md)
 * [Expense Tracking and Reimbursement](https://github.com/devmynd/handbook/blob/master/Operations/Expense%20Tracking%20and%20Reimbursement.md)
 * [Feedback](https://github.com/devmynd/handbook/blob/master/Operations/Feedback.md)
 * [Guidebooks](https://devmynd.com/guidebooks)
