@@ -23,14 +23,9 @@ The amount of profit reserved depends on the company's performance in the given 
   </tr>
 </table>
 
-Employees are eligible to receive distributions from the company's profit sharing program after 1 full year of employment which must occur prior to the distribution date.  For employees who began as apprentices, their first year is counted from their graduation date.
+Employees are eligible to receive distributions from the company's profit sharing program after 1 full year of employment, which must occur prior to the distribution date.  For employees who began as apprentices, their first year is counted from their graduation date.
 
-The program revolves around a point system.  On an employee's first
-anniversary date they receive 5,000 points in the program.  At each
-subsequent anniversary date they receive an additional 1,000 points for
-each year of employment.  For example, an employee who has been at the
-company for 4 years would have seen their points increase in the
-following progression:
+The program revolves around a point system.  On an employee's first anniversary date they receive 5,000 points in the program.  At each subsequent anniversary date they receive an additional 1,000 points for each year of employment.  For example, an employee who has been at the company for 4 years would have seen their points increase in the following progression:
 
 * 1st Anniversary: 5,000
 * 2nd Anniversary: an additional 2,000 for a total of 7,000
