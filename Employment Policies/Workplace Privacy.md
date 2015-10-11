@@ -6,11 +6,11 @@ This means that while the company will always try to respect employee privacy, e
 
 ## Email and Internet Privacy
 
-DevMynd email communications and Internet traffic are not being actively monitored by anyone, but because they are company resources that are managed according to company policy, you should not expect privacy from either. The company has both the ability and the right to look at employee usage for both in order to protect employee safety and wellbeing, as well as company property and interests.
+DevMynd email communications and network traffic are not being actively monitored by anyone, but because they are company resources that are managed according to company policy, you should not expect privacy from either. The company has both the ability and the right to look at employee usage for both in order to protect employee safety and wellbeing, as well as company property and interests.
 
 ## Email Is Not Private
 
-Email messages, including attachments, sent and received from a DevMynd email address are the property of DevMynd. We reserve the right to access, monitor, read, and/or copy email messages at any time, for any reason. You should not expect privacy for any email you send using your DevMynd email, including messages that you consider to be personal or label with a designation such as “Personal” or “Private.”
+Email messages, including attachments, sent and received from a DevMynd email address are the property of DevMynd. We reserve the right to access, monitor, read, and/or copy email messages at any time, for any reason. You should not expect privacy for any email you send using your DevMynd email, including messages that you consider to be personal or label with a designation such as "Personal" or "Private."
 
 ## Use of the Email System for Personal Email
 
@@ -26,4 +26,4 @@ We expect you to exercise discretion in using electronic communications. When yo
 
 ## Internet Use Is Not Private
 
-We reserve the right to monitor employee use of the Internet at any time. You should not expect that your use of the Internet—including but not limited to the sites you visit, the amount of time you spend online, and the communications you have—will be private.
+We reserve the right to monitor employee use of the internet at any time. You should not expect that your use of the internet — including, but not limited to, the sites you visit, the amount of time you spend online, and the communications you have — will be private.

@@ -1,9 +1,9 @@
 # DevMynd Team Handbook
 
-When we started DevMynd our goals were very simple: build a company we
-wanted to work at and build things that were interesting and meaningful.
+When we started DevMynd, our goals were simple: build a company we
+wanted to work at, and build things that were interesting and meaningful.
 Part of growing into a company that we want to work at is developing a
-set of policies and guidelines that codify our values - this handbook is
+set of policies and guidelines that codify our values. This handbook is
 just that.
 
 We are not the first to make our company handbook available as open
@@ -59,4 +59,4 @@ additions will be noted below in the change log.
 
 ## Change Log
 
-_Format: << Date >> - << Description of Change >>_
+_Format: Oct-10-2015 - Handbook 1.0_
