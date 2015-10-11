@@ -1,16 +1,8 @@
 # DevMynd Team Handbook
 
-When we started DevMynd, our goals were simple: build a company we
-wanted to work at, and build things that were interesting and meaningful.
-Part of growing into a company that we want to work at is developing a
-set of policies and guidelines that codify our values. This handbook is
-just that.
+When we started DevMynd, our goals were simple: build a company we wanted to work at, and build things that were interesting and meaningful. Part of growing into a company that we want to work at is developing a set of policies and guidelines that codify our values. This handbook is just that.
 
-We are not the first to make our company handbook available as open
-source.  But, we liked the idea so much that we decided to follow in
-others' footsteps.  Making these documents publicly available signals
-our values both internally and to the outside world and it encourages us
-to maintain discipline and accountability for the things we believe.
+We are not the first to make our company handbook available as open source.  But, we liked the idea so much that we decided to follow in others' footsteps.  Making these documents publicly available signals our values both internally and to the outside world and it encourages us to maintain discipline and accountability for the things we believe.
 
 -- JC Grubbs, CEO at DevMynd
 
@@ -52,11 +44,8 @@ to maintain discipline and accountability for the things we believe.
 
 # Changes and Contribution
 
-From time to time this handbook will be updated.  Minor changes in
-wording or formatting which do not alter the intent or substance of the
-policies will be recorded in the commit history.  Major changes or
-additions will be noted below in the change log.
+From time to time this handbook will be updated.  Minor changes in wording or formatting which do not alter the intent or substance of the policies will be recorded in the commit history.  Major changes or additions will be noted below in the change log.  If you would like to suggest a change please fork this repository and submit a pull request.
 
 ## Change Log
 
-_Format: Oct-10-2015 - Handbook 1.0_
+Oct-10-2015 - Handbook 1.0
