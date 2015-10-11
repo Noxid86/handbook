@@ -2,7 +2,7 @@
 
 ## Vacation
 
-Each employee at (other than apprentices) starts their employment with 3 weeks of paid time off (PTO) and earns an additional week of employment each year up to 5 weeks.  Vacation time should be requested with as much advanced notice as possible through the company's HR system, [Zenefits](https://www.zenefits.com/).
+Each employee (other than apprentices) starts their employment with 3 weeks of paid time off (PTO) and earns an additional week of PTO each year up to 5 weeks.  Vacation time should be requested with as much advanced notice as possible through the company's HR system, [Zenefits](https://www.zenefits.com/).
 
 When vacation time is requested, it will be reviewed by your manager.  Every attempt will be made to approve all time off requests, but in rare cases where it significantly impacts business operation we may ask for adjustments to be made.  It is the employee's responsibility to notify their team lead, clients, and any other necessary party of any outages as soon as possible.
 
@@ -14,7 +14,7 @@ Sick days are considered PTO and should be recorded as such in the company's HR 
 
 ## Unpaid Time Off
 
-The company does not have a specific policy regarding unpaid time off.  If you feel that you need to exceed your available paid time off please consult with the management team.
+The company does not have a specific policy regarding unpaid time off.  If you feel that you need to exceed your available PTO please consult with the management team.
 
 ## Standard and Floating Holidays
 
@@ -26,7 +26,7 @@ In addition to PTO for vacation, there are several standard holidays which all e
 * Thanksgiving Day
 * New Years Day
 
-Floating days are often used for Christmas but may be used for other personal holidays or for New Years Eve, etc.
+Floating days are often used for Christmas but may be used for other personal/religious holidays or for New Years Eve, etc.
 
 ## Termination Payout
 
