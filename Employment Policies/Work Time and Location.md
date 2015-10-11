@@ -10,23 +10,23 @@ Employees should never exceed 50 hours of work in a given week.  If you feel tha
 
 ## Core Hours
 
-Whether co-locating at company or client offices, or working remotely, our core working hours are from 10am to 4pm local time. During core hours, employees are expected to be present and ready for work (not just in the building preparing for work). 
+Whether co-locating at company or client offices, or working remotely, our core working hours are from 10am-4pm local time. During core hours, employees are expected to be present and ready for work (not just in the building preparing for work).
 
-You may notice that 10am-4pm for five days doesn't add up to forty hours - yet forty is generally what we expect to do. How you spend your time outside of core hours is at your discretion, whether this be earlier mornings, later evenings, or weekends (though weekend work is not recommended).
+You may notice that 10am-4pm for five days doesn't add up to forty hours - yet forty is generally what we expect to do. How you organize your work time outside of core hours is at your discretion, whether this be earlier mornings, later evenings, or weekends (though weekend work is not recommended).
 
 Having core hours ensures we can pair program and collaborate in a high-bandwidth way during the majority of our work day, while still allowing us the flexibility that real life requires.
 
 ## Remote Days
 
-One day each week is an optional "work remote" day for the company. This means that you are not asked to come in to the company's office. We do stick to our core hours on these days, though, so everyone should be available online for pair programming, collaboration, and daily standup meetings while working remotely.  
+One day each week is an optional "work remote" day for the company. This means that you are not asked to come in to the company's office. We do stick to our core hours on these days, though, so everyone should be available online for pair programming, collaboration, and daily standup meetings while working remotely.
 
 These days should not impede client work. Any meetings with clients (whether on-site or remote) should continue to occur as scheduled.
 
 ## Work-from-Home or Out-of-Office
 
-Occasionally it is necessary to be home or out of the office during core hours - receiving important packages, childcare, doctors appointments, and so on. This is part of real life, so we don't prohibit working from home when it's necessary. In the event of the need to work from home, however, employees are expected to: 
+Occasionally it is necessary to be home or out of the office during core hours - receiving important packages, childcare, doctors appointments, and so on. This is part of real life, so we don't prohibit working from home when it's necessary. In the event of the need to work from home, however, employees are expected to:
 
 1. Minimize this time and its resulting impact to work productivity.
-2. Let team leads and clients know ahead of time, at the earliest possible opportunity.  
+2. Let team leads and clients know ahead of time, at the earliest possible opportunity.
 
 If you need to be away from work (not working) for a period of 3 hours or more, this should be considered paid-time-off (PTO) and should be recorded as such.
