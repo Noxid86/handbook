@@ -13,7 +13,7 @@ This Intellectual Property Agreement (this “Agreement”) will apply to my emp
 
 ## 1. Inventions Retained and Licensed
 
-I will provide to the Company, within ten (10) days of the Effective Date, a complete list describing with particularity all Inventions (as defined below) that, as of the Effective Date, belong solely to me or belong to me jointly with others, and that relate in any way to any of the Company's actual or proposed businesses, products, services, or research and development, and which are not assigned to the Company hereunder; or, if no such list is provided, I represent that there are no such Inventions at the time of signing this Agreement.  This provision does not apply to public works to which I have contributed or those that are covered under an open source license.
+I will provide to the Company, within ten (10) days of the Effective Date, a complete list describing with particularity all Inventions (Schedule B below) that, as of the Effective Date, belong solely to me or belong to me jointly with others, and that relate in any way to any of the Company's actual or proposed businesses, products, services, or research and development, and which are not assigned to the Company hereunder; or, if no such list is provided, I represent that there are no such Inventions at the time of signing this Agreement.  This provision does not apply to public works to which I have contributed or those that are covered under an open source license.
 
 ## 2. Use or Incorporation of Inventions
 
@@ -42,6 +42,24 @@ Subject to the requirements of applicable state law, if any, I understand that t
 Further, Company Inventions does not include Inventions which I solely or jointly author, discover, develop, conceive, or reduce to practice while not in performance of my duties to the Company and which in no way rely on Company Inventions or Confidential Information and in no way violate any other provisions of this agreement.
 
 **Accepted and Agreed To:**
+
+```
+
+Employee Name: __________________________
+
+
+Signature: _________________________   Date: _______________
+
+```
+
+# Schedule B: Prior Inventions
+
+Except as set forth below, Employee acknowledges that at this time (or, in the event this schedule is being executed subsequent to the commencement of Employee's employment by the Company, at the time of commencement of Employee's employment by the Company) Employee knows nothing about the business or Proprietary Information of DevMynd Software, Inc. (the "Company"), other than information Employee has learned from the Company in the course of being hired:
+
+Except as set forth below, there are no ideas, processes, inventions, technology, writings, programs, designs, formulas, discoveries, patents, copyrights, or trademarks, or any claims, rights, or improvements to the foregoing, that Employee wishes to exclude from the operation of this Agreement:
+
+_[List all prior inventions in detail]_
+
 
 ```
 
