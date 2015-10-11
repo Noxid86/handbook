@@ -12,7 +12,7 @@ If you would like to provide feedback to a team member but don't know how, or do
 
 ## Biannual Feedback
 
-Twice a year each employee will have an official feedback session with a member of the management team, once near the employee's anniversary date and again six months later. This feedback will consist primarily of peer input gathered and consolidated by the manager who is facilitating the feedback session. In general, these feedback sessions will be a conversation focused on our [feedback template](https://github.com/devmynd/handbook/blob/master/Operations/Feedback%20Template.md).
+Twice a year each employee will have an official feedback session with a member of the management team, once near the employee's anniversary date and again six months later. This feedback will consist primarily of peer input gathered and consolidated by the manager who is facilitating the feedback session. In general, these feedback sessions will be a conversation focused on our [feedback template](https://github.com/devmynd/handbook/blob/master/Operations/Feedback/Feedback%20Template.md).
 
 Our goals for these feedback sessions include:
 
@@ -25,8 +25,7 @@ Our goals for these feedback sessions include:
 
 To help facilitate feedback that is both actionable and aligned with our [core values](https://github.com/devmynd/handbook/blob/master/Values.md) we have created a feedback template. We'll use this template when providing biannual feedback, and it may be used more frequently. Not all parts of the template are needed or necessary for every type of feedback; the idea is to provide some structure to otherwise unstructured conversations.
 
-[View the Current Version of the Feedback
-Template](https://github.com/devmynd/handbook/blob/master/Operations/Feedback%20Template.md)
+[View the Current Version of the Feedback Template](https://github.com/devmynd/handbook/blob/master/Operations/Feedback/Feedback%20Template.md)
 
 ## Monthly One-on-Ones
 

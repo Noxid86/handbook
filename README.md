@@ -43,7 +43,7 @@ _These forms can be digitally signed through [Zenefits](https://zenefits.com/) a
 * [Data Security](https://github.com/devmynd/handbook/blob/master/Operations/Data%20Security.md)
 * [Expense Tracking and Reimbursement](https://github.com/devmynd/handbook/blob/master/Operations/Expense%20Tracking%20and%20Reimbursement.md)
 * [Feedback](https://github.com/devmynd/handbook/blob/master/Operations/Feedback.md)
-  * [Feedback Template](https://github.com/devmynd/handbook/blob/master/Operations/Feedback%20Template.md)
+  * [Feedback Template](https://github.com/devmynd/handbook/blob/master/Operations/Feedback/Feedback%20Template.md)
 * [Guidebooks](https://devmynd.com/guidebooks)
 
 # Changes and Contribution
