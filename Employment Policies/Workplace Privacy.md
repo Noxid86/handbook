@@ -1,6 +1,4 @@
-# Privacy and Security
-
-## Workspace Privacy
+# Workspace Privacy
 
 As an employer, it is DevMynd’s goal to monitor or track our employees in as few ways as possible. We want DevMynd team members to feel a sense of ownership towards their personal workspaces and be comfortable at the office. However, in order to ensure the safety and wellbeing of our team, company property (e.g. desks, laptops, and other devices) is subject to search. For instance, this might be used if management learns that an employee has brought a gun to work or has stolen company property.
 
