@@ -2,7 +2,7 @@
 
 Each month, the company will reserve a portion of company profit according to the table below.  The reserved funds will be held in an account until the next profit sharing distribution at which time all funds in the program will be distributed.  Profit sharing distributions are made twice annually on or around April 10th and October 10th.
 
-The amount of profit reserved depends on the company's current performance on a tiered scale:
+The amount of profit reserved depends on the company's performance in the given month based on a tiered scale:
 
 <table>
   <tr>
@@ -24,7 +24,6 @@ The amount of profit reserved depends on the company's current performance on a 
 </table>
 
 Employees are eligible to receive distributions from the company's profit sharing program after 1 full year of employment which must occur prior to the distribution date.  For employees who began as apprentices, their first year is counted from their graduation date.
-
 
 The program revolves around a point system.  On an employee's first
 anniversary date they receive 5,000 points in the program.  At each
