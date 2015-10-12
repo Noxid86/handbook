@@ -6,6 +6,8 @@ The intent of this template is to provide a starting point for providing constru
 
 ## Ships Quality Work
 
+[What we mean by "ships quality work"](https://github.com/devmynd/handbook/blob/master/Operations/Feedback/Ships%20Quality%20Work.md)
+
 <table>
   <thead>
     <tr>
