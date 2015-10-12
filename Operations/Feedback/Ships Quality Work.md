@@ -38,7 +38,7 @@ As mentioned above, real-world projects have competing priorities.  Writing high
 
 Our style of development presents us with this dilemma:
 
-<img src="https://raw.githubusercontent.com/devmynd/handbook/master/Operations/Feedback/quality-scope-deadline.png" style="max-width: 50%;" />
+<img src="https://raw.githubusercontent.com/devmynd/handbook/master/Operations/Feedback/quality-scope-deadline.png" />
 
 If code quality and scope are fixed, then the deadline has to be negotiable. If code quality and deadline are fixed, then the scope has to be negotiable. And, of course, if scope and deadline are both fixed, then code quality has to be negotiable.
 
