@@ -72,7 +72,7 @@ The intent of this template is to provide a starting point for providing constru
       <td></td>
     </tr>
     <tr>
-      <td>We change what we’re doing when it’s not working.</td>
+      <td>We change what we're doing when it's not working.</td>
       <td></td>
     </tr>
     <tr>
@@ -94,9 +94,9 @@ The intent of this template is to provide a starting point for providing constru
   </tbody>
 </table>
 
-## Supports the Client
+## Supports the Customer
 
-[What we mean by "supports the client".](https://github.com/devmynd/handbook/blob/master/Operations/Feedback/Supports%the%Client.md)
+[What we mean by "supports the customer".](https://github.com/devmynd/handbook/blob/master/Operations/Feedback/Supports%the%Customer.md)
 
 <table>
   <thead>
@@ -131,7 +131,11 @@ The intent of this template is to provide a starting point for providing constru
       <td></td>
     </tr>
     <tr>
-      <td>We know when it’s time for a change.</td>
+      <td>We complain constructively.</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>We know when it's time for a change.</td>
       <td></td>
     </tr>
   </tbody>

@@ -13,6 +13,7 @@ Some developers have a well-developed “gut feel” that tells them when code i
 These are fairly abstract questions, so we've put together some tactics our developers can do that generally lead our code in the right direction.
 
 **1. We consider solutions and consequences before diving into coding.**
+
 **2. We do “just enough” planning.**
 
 These tactics are two sides of a coin. We want to make sure we think through technical decisions before we leap in and write a bunch of code, so that we don't end up with, e.g., the wrong data store or the wrong framework. However, we don't want to over-architect or “gold-plate” our code either. Remember: you ain't gonna need it (YAGNI). When you're about to add another abstraction, ask yourself if it makes the code more clear, or less clear.
@@ -26,6 +27,7 @@ Try to make each piece of code reveal what it does, without requiring other cont
 Our tests are often the only documentation for our code. They should tell a developer new to the project what the code does, without getting into the details of how it is done. Individual tests are small. We test our code -- not framework code -- and we make sure that both the happy paths and the sad paths are covered at the appropriate level of detail.
 
 **5. We aim to test-drive all our code.**
+
 **6. We aim for all code to be reviewed, preferably in real-time by a pair.**
 
 These two tactics ensure that code used by customers does what they expect. In general, our goal is to test-drive and pair on all code. We want developers to seek out these practices, and the leads' job is largely to make this possible.
