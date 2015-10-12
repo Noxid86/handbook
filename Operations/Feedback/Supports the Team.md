@@ -6,7 +6,7 @@ One of DevMynd's differentiating factors, both as an employer and as a consultin
 
 The only reason this is true is because we support each other. But an exhortation to “support each other” is too abstract to really act on. As a result, we've put together this set of tactics developers can use that generally move our team communication in the right direction.
 
-** 1. We are respectful.**
+**1. We are respectful.**
 
 Our ideal conversational style is technically blunt, but personally respectful. When someone says something we disagree with, rather than reacting negatively, we ask ourselves why they might feel that way. Or maybe we ask them!
 

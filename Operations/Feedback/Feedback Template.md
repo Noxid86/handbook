@@ -6,7 +6,7 @@ The intent of this template is to provide a starting point for providing constru
 
 ## Ships Quality Work
 
-[What we mean by "ships quality work"](https://github.com/devmynd/handbook/blob/master/Operations/Feedback/Ships%20Quality%20Work.md)
+[What we mean by "ships quality work".](https://github.com/devmynd/handbook/blob/master/Operations/Feedback/Ships%20Quality%20Work.md)
 
 <table>
   <thead>
@@ -48,6 +48,8 @@ The intent of this template is to provide a starting point for providing constru
 </table>
 
 ## Supports the Team
+
+[What we mean by "supports the team".](https://github.com/devmynd/handbook/blob/master/Operations/Feedback/Supports%20the%20Team.md)
 
 <table>
   <thead>
@@ -93,6 +95,8 @@ The intent of this template is to provide a starting point for providing constru
 </table>
 
 ## Supports the Client
+
+[What we mean by "supports the client".](https://github.com/devmynd/handbook/blob/master/Operations/Feedback/Supports%the%Client.md)
 
 <table>
   <thead>
