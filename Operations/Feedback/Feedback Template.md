@@ -96,7 +96,7 @@ The intent of this template is to provide a starting point for providing constru
 
 ## Supports the Customer
 
-[What we mean by "supports the customer".](https://github.com/devmynd/handbook/blob/master/Operations/Feedback/Supports%the%Customer.md)
+[What we mean by "supports the customer".](https://github.com/devmynd/handbook/blob/master/Operations/Feedback/Supports%20the%20Customer.md)
 
 <table>
   <thead>
