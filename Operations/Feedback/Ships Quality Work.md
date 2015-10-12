@@ -8,7 +8,7 @@ Some developers have a well-developed “gut feel” that tells them when code i
 
 * Would you want to come back and maintain this code in a month? A year? Five years?
 * Would you want other developers to look through this code?
-* How confident are you that 1) changes in one area won't silently break something somewhere else and 2) it works the way it should under all circumstances? 
+* How confident are you that 1) changes in one area won't silently break something somewhere else and 2) it works the way it should under all circumstances?
 
 These are fairly abstract questions, so we've put together some tactics our developers can do that generally lead our code in the right direction.
 
@@ -38,8 +38,7 @@ As mentioned above, real-world projects have competing priorities.  Writing high
 
 Our style of development presents us with this dilemma:
 
-[IMAGE GOES HERE]
-
+<img src="https://raw.githubusercontent.com/devmynd/handbook/master/Operations/Feedback/quality-scope-deadline.png" />
 
 If code quality and scope are fixed, then the deadline has to be negotiable. If code quality and deadline are fixed, then the scope has to be negotiable. And, of course, if scope and deadline are both fixed, then code quality has to be negotiable.
 
