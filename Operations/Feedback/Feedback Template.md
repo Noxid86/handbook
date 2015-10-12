@@ -89,10 +89,6 @@ The intent of this template is to provide a starting point for providing constru
       <td>We collectively own our success or failure, rather than assigning blame.</td>
       <td></td>
     </tr>
-    <tr>
-      <td>We make sure the customer is never surprised.</td>
-      <td></td>
-    </tr>
   </tbody>
 </table>
 
