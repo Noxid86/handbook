@@ -12,6 +12,10 @@ PTO renews on the calendar year.  Employees who start employment mid-year will r
 
 Sick days are considered PTO and should be recorded as such in the company's HR system, [Zenefits](https://www.zenefits.com/).
 
+## Conference Days
+
+Development and design employees (including apprentices) receive PTO for 3 conference days annually.  These may be used to attend an industry focused event.  These additional PTO days do not roll over to the next year.
+
 ## Unpaid Time Off
 
 The company does not have a specific policy regarding unpaid time off.  If you feel that you need to exceed your available PTO please consult with the management team.
