@@ -14,12 +14,16 @@ The amount of profit reserved depends on the company's performance in the given 
     <td>10% Reserved</td>
   </tr>
   <tr>
-    <td>10-20%</td>
+    <td>11-20%</td>
     <td>15% Reserved</td>
   </tr>
   <tr>
-    <td>20% or Higher</td>
+    <td>21-30%</td>
     <td>20% Reserved</td>
+  </tr>
+  <tr>
+    <td>31% or Higher</td>
+    <td>25% Reserved</td>
   </tr>
 </table>
 
