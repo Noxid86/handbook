@@ -10,3 +10,13 @@ Employees are eligible to receive a pre-tax transit benefit in the amount of $25
 ## Wellness Benefit
 
 _We are currently exploring options for implementing a wellness program and will have more to share about this soon._
+
+## Technology Memberships
+
+### Built in Chicago
+
+Team membership that includes free access to Built in Chicago hosted events. 
+
+### ITA (Illinois Technology Association)
+
+Team membership includes access to workspace at [TechNexus](http://technexus.com/).
