@@ -4,6 +4,8 @@ The intent of this template is to provide a starting point for providing constru
 
 Each section below addresses a set of practices, standards, or expected behaviors.  A separate document, linked from each section, includes more detail about what the standards mean and how to interpret them. If you would like to use this template, but have any questions or would like advice, please speak with a member of the management team.
 
+_[There's also a plain version (without HTML tables) of the template.](https://github.com/devmynd/handbook/blob/master/Operations/Feedback/Feedback%20Template%20Plain.md)_
+
 ***
 
 ## Ships Quality Work
