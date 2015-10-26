@@ -53,3 +53,4 @@ From time to time this handbook will be updated.  Minor changes in wording or fo
 ## Change Log
 
 Oct-10-2015 - Handbook 1.0
+Oct-25-2015 - Handbook 1.1 - clarified the policy around core hours.

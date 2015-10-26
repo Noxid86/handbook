@@ -4,7 +4,7 @@ We work on small project teams and, as such, things move very quickly. We make a
 
 ## Expected Work Hours per Week
 
-Employees are expected to work a minimum of 40 hours per week but are not expected to work significantly beyond 40 hours. As a consulting shop, we commit the majority of our working time to producing value for customers or for the company. 
+Employees are expected to work a minimum of 40 hours per week but are not expected to work significantly beyond 40 hours. As a consulting shop, we commit the majority of our working time to producing value for customers or for the company.
 
 Employees should never exceed 50 hours of work in a given week.  If you feel that the completion of your tasks require more than 50 hours on a regular basis, this should be addressed with management and mitigated to avoid burn out and lower quality of work.
 
@@ -12,9 +12,10 @@ Employees should never exceed 50 hours of work in a given week.  If you feel tha
 
 Whether co-locating at company or client offices, or working remotely, our core working hours are from 10am-4pm local time. During core hours, employees are expected to be present and ready for work (not just in the building preparing for work).
 
-You may notice that 10am-4pm for five days doesn't add up to forty hours - yet forty is generally what we expect to do. How you organize your work time outside of core hours is at your discretion, whether this be earlier mornings, later evenings, or weekends (though weekend work is not recommended).
+You may notice that 10am-4pm for five days doesn't add up to 40 hours - yet 40 is generally what we expect to do. How you organize your work time outside of core hours is at your discretion, whether this be earlier mornings, later evenings, or weekends (though weekend work is not recommended).  However, core hours does not mean that
+work responsibilities won't be scheduled outside of these hours.  If client needs require a 9am meeting or a 4:30pm check in call we should make every attempt to accommodate.
 
-Having core hours ensures we can pair program and collaborate in a high-bandwidth way during the majority of our work day, while still allowing us the flexibility that real life requires.
+The goal of core hours is to ensure that we can pair program and collaborate in a high-bandwidth way during the majority of our work day while still allowing us the flexibility that real life requires.  If compliance with core hours presents a serious impediment to family or life schedules please work with the management team to find an acceptable compromise.
 
 ## Remote Days
 
