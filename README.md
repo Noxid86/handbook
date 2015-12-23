@@ -1,6 +1,6 @@
 # DevMynd Team Handbook
 
-When we started DevMynd, our goals were simple: build a company we wanted to work at, and build things that were interesting and meaningful. Part of growing into a company that we want to work at is developing a set of policies and guidelines that codify our values. This handbook is just that.
+When we started DevMynd, our goals were simple: build a company we wanted to work at, and solve problems that were interesting and meaningful. Part of growing into a company that we want to work at is developing a set of policies and guidelines that codify our values. This handbook is just that.
 
 We are not the first to make our company handbook available as open source.  But, we liked the idea so much that we decided to follow in others' footsteps.  Making these documents publicly available signals our values both internally and to the outside world and it encourages us to maintain discipline and accountability for the things we believe.
 
@@ -54,3 +54,4 @@ From time to time this handbook will be updated.  Minor changes in wording or fo
 
 * Oct-10-2015 - Handbook 1.0
 * Oct-25-2015 - Handbook 1.1 - clarified the policy around core hours.
+* Dec-21-2015 - Handbook 1.2 - updated beliefs, vision, and mission; removed health insurance stipend
