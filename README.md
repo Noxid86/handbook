@@ -10,7 +10,7 @@ We are not the first to make our company handbook available as open source.  But
 
 ## Introduction
 * [Values](https://github.com/devmynd/handbook/blob/master/Values.md)
-* [Vision](https://github.com/devmynd/handbook/blob/master/Vision.md)
+* [Beliefs, Vision, and Mission](https://github.com/devmynd/handbook/blob/master/Beliefs,%20Vision,%20and%20Mission.md)
 
 ## Employment Policies
 * [At-Will Employment](https://github.com/devmynd/handbook/blob/master/Employment%20Policies/At-Will%20Employment.md)
