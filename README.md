@@ -40,6 +40,7 @@ _These forms can be digitally signed through [Zenefits](https://zenefits.com/) a
 * [Intellectual Property Agreement](https://github.com/devmynd/handbook/blob/master/Hiring%20Documents/Intellectual%20Property%20Agreement.md)
 
 ## Operations
+* [Corporate Credit Cards](https://github.com/devmynd/handbook/blob/master/Operations/Corporate%20Credit%20Cards.md)
 * [Data Security](https://github.com/devmynd/handbook/blob/master/Operations/Data%20Security.md)
 * [Expense Tracking and Reimbursement](https://github.com/devmynd/handbook/blob/master/Operations/Expense%20Tracking%20and%20Reimbursement.md)
 * [Feedback](https://github.com/devmynd/handbook/blob/master/Operations/Feedback.md)
@@ -55,3 +56,4 @@ From time to time this handbook will be updated.  Minor changes in wording or fo
 * Oct-10-2015 - Handbook 1.0
 * Oct-25-2015 - Handbook 1.1 - clarified the policy around core hours.
 * Dec-21-2015 - Handbook 1.2 - updated beliefs, vision, and mission; removed health insurance stipend
+* Oct-22-2016 - Handbook 1.3 - adding a corporate credit card policy
