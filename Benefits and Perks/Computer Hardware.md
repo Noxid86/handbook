@@ -14,11 +14,11 @@ If the specifications of the standard company laptop above are not adequate, you
 
 **3. Bring Your Own Device**
 
-You may bring your own device to use for work provided that this device complies with the [privacy and security](https://github.com/devmynd/handbook/blob/master/Employment%20Policies/Privacy%20and%20Security.md) policies of the company including inspection upon request and encryption.
+You may bring your own device to use for work provided that this device complies with the [data security](https://github.com/devmynd/handbook/blob/master/Operations/Data%20Security.md) policies of the company including inspection upon request and encryption.
 
 ## Upgrade Cycle
 
-All company owned laptops are replaced every 24 months with equivalent versions.
+All company owned laptops are replaced roughly every 24 months with equivalent versions.
 
 ## Purchase at End-of-life
 
