@@ -46,6 +46,7 @@ _These forms can be digitally signed through [Zenefits](https://zenefits.com/) a
 * [Feedback](https://github.com/devmynd/handbook/blob/master/Operations/Feedback.md)
   * [Feedback Template](https://github.com/devmynd/handbook/blob/master/Operations/Feedback/Feedback%20Template.md)
 * [Guidebooks](https://devmynd.com/guidebooks)
+* [Travel](https://github.com/devmynd/handbook/blob/master/Operations/Travel.md)
 
 # Changes and Contribution
 
@@ -57,3 +58,4 @@ From time to time this handbook will be updated.  Minor changes in wording or fo
 * Oct-25-2015 - Handbook 1.1 - clarified the policy around core hours.
 * Dec-21-2015 - Handbook 1.2 - updated beliefs, vision, and mission; removed health insurance stipend
 * Oct-22-2016 - Handbook 1.3 - adding a corporate credit card policy
+* Nov-5-2016 - Handbook 1.4 - refining the learning budget policy and adding a travel policy

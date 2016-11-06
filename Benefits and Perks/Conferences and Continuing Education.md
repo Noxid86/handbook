@@ -4,7 +4,9 @@ Continuous improvement is one of our [core values](https://github.com/devmynd/ha
 
 ## Learning Budget
 
-Every developer or designer at DevMynd has an annual budget of $750 to spend on learning activities related to their work. You can spend this budget on classes, online training, books, screencasts, etc. You can also use it to attend conferences, by applying it to conference registration fees and appropriate travel expenses.
+Every developer or designer at DevMynd has an annual budget of $750 to spend on learning activities related to their work. You can spend this budget on classes, online training, books, screencasts, etc.
+
+You can also use the learning budget to attend industry related  conferences.  The budget can be applied to 100% of conference registration fees and 50% of travel expenses (flights and hotel) but it does not cover meals and other incidental costs.
 
 The learning budget is accounted for through the [expense tracking](https://github.com/devmynd/handbook/blob/master/Operations/Expense%20Tracking%20and%20Reimbursement.md)
 system, which means that you pay for these expenses and then submit a receipt to receive reimbursement. Please check with someone from the management team before making a purchase that you would like to apply towards your learning budget.
