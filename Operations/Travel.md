@@ -2,7 +2,7 @@
 
 We don't travel heavily as part of our regular work but will occasionally visit clients in remote cities, travel for sales, attend conferences, or visit other DevMynd offices.  The following policies apply to all travel at DevMynd regardless of the purpose.
 
-## Logistics Booking
+## Booking
 
 All travel expenses to be covered by DevMynd or clients must be booked by the administrative staff on behalf of the employee.  The purpose of this is so that we can manage travel budgets and ensure that travel policies are observed for insurance, liability, and safety concerns.
 
