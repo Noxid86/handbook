@@ -59,3 +59,4 @@ From time to time this handbook will be updated.  Minor changes in wording or fo
 * Dec-21-2015 - Handbook 1.2 - updated beliefs, vision, and mission; removed health insurance stipend
 * Oct-22-2016 - Handbook 1.3 - adding a corporate credit card policy
 * Nov-5-2016 - Handbook 1.4 - refining the learning budget policy and adding a travel policy
+* Jan-12-2017 - Handbook 1.5 - changes to time off policy, adding MLK day, reducing floating holidays
