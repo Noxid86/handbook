@@ -10,7 +10,7 @@ PTO renews on the calendar year.  Employees who start employment mid-year will r
 
 ## Sick Days
 
-Sick days are considered time off and will be reduced from your total available PTO.  All sick days must be recorded as such in the company's HR system, [Zenefits](https://www.zenefits.com/).
+Sick days are considered time off and will be reduced from your total available PTO.  All sick days must be recorded as such in the company's HR system, [Zenefits](https://www.zenefits.com/).  For extended illnesses you may use your short-term disability insurance.
 
 ## Conference Days
 
@@ -39,4 +39,4 @@ While DevMynd is generally closed on Christmas day, employees who wish to substi
 
 ## Termination Payout
 
-When an employee leaves the company voluntarily, they will be paid out for any unused PTO in accordance with their current salary.  Employees who are terminated involunatirly, or for cause, will only be paid out for unused PTO if their state of residence requires such action.
+When an employee leaves the company voluntarily, they will be paid out for any unused PTO in accordance with their current salary.  Employees who are terminated involuntarily, or for cause, will only be paid out for unused PTO if their state of residence requires such action.
