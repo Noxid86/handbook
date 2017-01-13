@@ -22,15 +22,17 @@ The company does not have a specific policy regarding unpaid time off.  If you f
 
 ## Standard and Floating Holidays
 
-In addition to PTO for vacation and sick days, there are 7 standard holidays which all employees receive off and 1 floating holiday which may be taken at another time of personal importance.  The standard holidays are:
+In addition to PTO for vacation and sick days, there are 7 standard holidays which all employees receive off and 1 floating holiday which may be taken at another time of personal importance (often for Christmas Eve or New Year's Eve).
 
-* Labor Day
-* The 4th of July
-* Memorial Day
+The standard holidays are:
+
 * Martin Luther King, Jr. Day
+* Memorial Day
+* Independence Day
+* Labor Day
 * Thanksgiving Day
-* New Years Day
 * Christmas Day
+* New Years Day
 
 While DevMynd is generally closed on Christmas day, employees who wish to substitute this day for another day of significance may do so, please work with the HR administrator if this is a concern.
 
