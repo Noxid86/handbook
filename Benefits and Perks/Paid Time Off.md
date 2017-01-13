@@ -10,11 +10,11 @@ PTO renews on the calendar year.  Employees who start employment mid-year will r
 
 ## Sick Days
 
-Sick days are considered PTO and should be recorded as such in the company's HR system, [Zenefits](https://www.zenefits.com/).
+Sick days are considered time off and will be reduced from your total available PTO.  All sick days must be recorded as such in the company's HR system, [Zenefits](https://www.zenefits.com/).
 
 ## Conference Days
 
-Development and design employees (including apprentices) receive PTO for 3 conference days annually.  These may be used to attend an industry focused event.  These additional PTO days do not roll over to the next year.
+Development and design employees (including apprentices) receive PTO for 3 conference days annually.  These may be used to attend an industry focused event that must be approved by a manager prior when requesting the time.  These additional PTO days do not roll over to the next year.
 
 ## Unpaid Time Off
 
@@ -22,16 +22,19 @@ The company does not have a specific policy regarding unpaid time off.  If you f
 
 ## Standard and Floating Holidays
 
-In addition to PTO for vacation, there are several standard holidays which all employees receive off and two floating holidays which may be taken by the employee at any time.  The standard holidays are:
+In addition to PTO for vacation and sick days, there are 7 standard holidays which all employees receive off and 1 floating holiday which may be taken at another time of personal importance.  The standard holidays are:
 
 * Labor Day
 * The 4th of July
 * Memorial Day
+* Martin Luther King, Jr. Day
 * Thanksgiving Day
 * New Years Day
+* Christmas Day
 
-Floating days are often used for Christmas but may be used for other personal/religious holidays or for New Years Eve, etc.
+While DevMynd is generally closed on Christmas day, employees who wish to substitute this day for another day of significance may do so, please work with the HR administrator if this is a concern.
+
 
 ## Termination Payout
 
-When an employee leaves the company voluntarily, they will be paid out for any unused PTO in accordance with their current salary.
+When an employee leaves the company voluntarily, they will be paid out for any unused PTO in accordance with their current salary.  Employees who are terminated involunatirly, or for cause, will only be paid out for unused PTO if their state of residence requires such action.
