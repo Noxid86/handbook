@@ -10,7 +10,7 @@ We are not the first to make our company handbook available as open source.  But
 
 ## Introduction
 * [Values](https://github.com/devmynd/handbook/blob/master/Values.md)
-* [Beliefs, Vision, and Mission](https://github.com/devmynd/handbook/blob/master/Beliefs,%20Vision,%20and%20Mission.md)
+* [Beliefs, Vision, and Mission](https://github.com/devmynd/handbook/blob/master/Beliefs,%20Mission,%20and%20Strategy.md)
 
 ## Employment Policies
 * [At-Will Employment](https://github.com/devmynd/handbook/blob/master/Employment%20Policies/At-Will%20Employment.md)
@@ -27,7 +27,6 @@ We are not the first to make our company handbook available as open source.  But
 * [New Parent Leave](https://github.com/devmynd/handbook/blob/master/Benefits%20and%20Perks/New%20Parent%20Leave.md)
 * [Other Perks](https://github.com/devmynd/handbook/blob/master/Benefits%20and%20Perks/Other%20Perks.md)
 * [Paid Time Off](https://github.com/devmynd/handbook/blob/master/Benefits%20and%20Perks/Paid%20Time%20Off.md)
-* [Profit Sharing](https://github.com/devmynd/handbook/blob/master/Benefits%20and%20Perks/Profit%20Sharing.md)
 * [Retirement Plan](https://github.com/devmynd/handbook/blob/master/Benefits%20and%20Perks/Retirement%20Plan.md)
 
 ## Hiring Documents
@@ -40,6 +39,7 @@ _These forms can be digitally signed through [Zenefits](https://zenefits.com/) a
 * [Intellectual Property Agreement](https://github.com/devmynd/handbook/blob/master/Hiring%20Documents/Intellectual%20Property%20Agreement.md)
 
 ## Operations
+* [Time Tracking](https://github.com/devmynd/handbook/blob/master/Operations/Time%20Tracking.md)
 * [Corporate Credit Cards](https://github.com/devmynd/handbook/blob/master/Operations/Corporate%20Credit%20Cards.md)
 * [Data Security](https://github.com/devmynd/handbook/blob/master/Operations/Data%20Security.md)
 * [Expense Tracking and Reimbursement](https://github.com/devmynd/handbook/blob/master/Operations/Expense%20Tracking%20and%20Reimbursement.md)
@@ -56,7 +56,8 @@ From time to time this handbook will be updated.  Minor changes in wording or fo
 
 * Oct-10-2015 - Handbook 1.0
 * Oct-25-2015 - Handbook 1.1 - clarified the policy around core hours.
-* Dec-21-2015 - Handbook 1.2 - updated beliefs, vision, and mission; removed health insurance stipend
-* Oct-22-2016 - Handbook 1.3 - adding a corporate credit card policy
-* Nov-5-2016 - Handbook 1.4 - refining the learning budget policy and adding a travel policy
-* Jan-12-2017 - Handbook 1.5 - changes to time off policy, adding MLK day, reducing floating holidays
+* Dec-21-2015 - Handbook 1.2 - updated beliefs, vision, and mission; removed health insurance stipend.
+* Oct-22-2016 - Handbook 1.3 - adding a corporate credit card policy.
+* Nov-5-2016 - Handbook 1.4 - refining the learning budget policy and adding a travel policy.
+* Jan-12-2017 - Handbook 1.5 - changes to time off policy, adding MLK day, reducing floating holidays.
+* Oct-19-2017 - Handbook 1.6 - adding the time tracking policy, removing profit sharing (will add back once we actually figure that out), minor changes to values, beliefs, and mission.
