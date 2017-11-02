@@ -61,3 +61,4 @@ From time to time this handbook will be updated.  Minor changes in wording or fo
 * Nov-5-2016 - Handbook 1.4 - refining the learning budget policy and adding a travel policy.
 * Jan-12-2017 - Handbook 1.5 - changes to time off policy, adding MLK day, reducing floating holidays.
 * Oct-19-2017 - Handbook 1.6 - adding the time tracking policy, removing profit sharing (will add back once we actually figure that out), minor changes to values, beliefs, and mission.
+* Nov-2-2017 - Handbook 1.7 - changing sick policy to no longer pull from PTO.
