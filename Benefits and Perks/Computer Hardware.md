@@ -6,7 +6,7 @@ Employees have three options for hardware:
 
 **1. Company Provided (owned) Hardware**
 
-If you elect to have the company purchase a computer for you we purchase a standard machine: a 13" Macbook Pro w/ Retina Display, 512Gb of storage, and 16Gb of RAM.
+If you elect to have the company purchase a computer for you we purchase a standard machine: a 13" Macbook Pro w/ Retina Display, 512Gb of storage, and 16Gb of RAM.  Otherwise, developers and designs can choose a configuration of their choice up to $2600.  If you will be purchasing anything other an Apple/Mac, please check in with your manager.
 
 **2. Company Provided (owned) Hardware with Upgrades**
 
