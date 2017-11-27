@@ -6,7 +6,7 @@ Each employee (other than apprentices) starts their employment with 3 weeks of p
 
 When vacation time is requested, it will be reviewed by your manager.  Every attempt will be made to approve all time off requests, but in rare cases where it significantly impacts business operation we may ask for adjustments to be made.  It is the employee's responsibility to notify their team lead, clients, and any other necessary party of any outages as soon as possible.
 
-PTO renews on the calendar year.  Employees who start employment mid-year will receive a pro-rated amount of PTO through the end of their first partial year of employment.  Up to 40 hours of unused PTO may be rolled over from one year to the next.
+PTO renews on the yearly anniversary of your start date. Up to 40 hours of unused PTO may be rolled over from one year to the next.
 
 ## Sick Days
 
