@@ -18,7 +18,7 @@ You may bring your own device to use for work provided that this device complies
 
 ## Upgrade Cycle
 
-All company owned laptops are replaced roughly every 24 months with equivalent versions.
+All company owned laptops are replaced roughly every 30 months with equivalent versions.
 
 ## Purchase at End-of-life
 

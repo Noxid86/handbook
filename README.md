@@ -63,3 +63,4 @@ From time to time this handbook will be updated.  Minor changes in wording or fo
 * Oct-19-2017 - Handbook 1.6 - adding the time tracking policy, removing profit sharing (will add back once we actually figure that out), minor changes to values, beliefs, and mission.
 * Nov-2-2017 - Handbook 1.7 - changing sick policy to no longer pull from PTO.
 * Nov-17-2017 - Handbook 1.7.1 - update PTO rollover and laptop policy to reflect current implementation.
+* Mar-8-2018 - Handbook 1.7.2 - small update to laptop policy.
