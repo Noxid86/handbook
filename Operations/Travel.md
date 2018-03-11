@@ -1,6 +1,6 @@
 # Travel
 
-We don't travel heavily as part of our regular work but will occasionally visit clients in remote cities, travel for sales, attend conferences, or visit other DevMynd offices.  The following policies apply to all travel at DevMynd regardless of the purpose.
+We don't travel heavily as part of our regular work but will occasionally visit clients in remote cities, perform user research, travel for sales, attend conferences, or visit other DevMynd offices.  The following policies apply to all travel at DevMynd regardless of the purpose.
 
 ## Booking
 
@@ -23,6 +23,10 @@ When traveling with fellow team members, separate rooms will be booked for each 
 ## Car Travel
 
 It is strongly preferred that individuals use ride-sharing or public transit while traveling for business purposes (even within home regions).
+
+### Uber for Business
+
+Team members who wish to use Uber may take advantage of our Uber for Business account which will put Uber fees on our corporate card.  Team members are not automatically added to the account so please request access from your office's administrative assistant.
 
 ### Rental Cars
 
