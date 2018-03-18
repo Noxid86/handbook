@@ -65,3 +65,4 @@ From time to time this handbook will be updated.  Minor changes in wording or fo
 * Nov-17-2017 - Handbook 1.7.1 - update PTO rollover and laptop policy to reflect current implementation.
 * Mar-8-2018 - Handbook 1.7.2 - small update to laptop policy.
 * Mar-9-2018 - Handbook 1.7.3 - small note to expense policy.
+* Mar-18-2018 - Handbook 1.7.4 - adding a note not to use confidential material of a 3rd-party.

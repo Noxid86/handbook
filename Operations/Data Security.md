@@ -27,3 +27,7 @@ All employees **must** keep the hard disks on their computers encrypted, OR keep
 Information provided to DevMynd by its clients is covered under strict non-disclosure agreements and all breaches must be communicated and handled expeditiously. This applies to any scenario in which you believe that sensitive information may have become available to outside parties.
 
 If any company device or personal device being used for company purposes is lost or stolen, bring it to the attention of the management team immediately.
+
+## Use of Outside Materials
+
+Employees will refrain from the use of any outside materials in their work that may be covered under confidentiality agreements with a 3rd-party (not inclusive of DevMynd or it's clients).  Employees who have entered into such agreements with former employers agree not to use any such material in their work at DevMynd to avoid breach of their personal agreements.
