@@ -67,3 +67,4 @@ From time to time this handbook will be updated.  Minor changes in wording or fo
 * Mar-9-2018 - Handbook 1.7.3 - small note to expense policy.
 * Mar-11-2018 - Handbook 1.7.4 - added note about Uber for Business.
 * Mar-18-2018 - Handbook 1.7.5 - adding a note not to use confidential material of a 3rd-party.
+* Apr-28-2018 - Handbook 1.7.6 - updating the online privacy policy.
