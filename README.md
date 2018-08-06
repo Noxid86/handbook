@@ -47,6 +47,9 @@ _These forms can be digitally signed through [Zenefits](https://zenefits.com/) a
   * [Feedback Template](https://github.com/devmynd/handbook/blob/master/Operations/Feedback/Feedback%20Template.md)
 * [Guidebooks](https://devmynd.com/guidebooks)
 * [Travel](https://github.com/devmynd/handbook/blob/master/Operations/Travel.md)
+* Job Descriptions:
+  * [Chief Technology Officer](https://github.com/devmynd/handbook/blob/master/Operations/Job%20Descriptions/Chief%20Technology%20Officer.md)
+  * [Chief Design Officer](https://github.com/devmynd/handbook/blob/master/Operations/Job%20Descriptions/Chief%20Design%20Officer.md)
 
 # Changes and Contribution
 
@@ -68,3 +71,4 @@ From time to time this handbook will be updated.  Minor changes in wording or fo
 * Mar-11-2018 - Handbook 1.7.4 - added note about Uber for Business.
 * Mar-18-2018 - Handbook 1.7.5 - adding a note not to use confidential material of a 3rd-party.
 * Apr-28-2018 - Handbook 1.7.6 - updating the online privacy policy.
+* Aug-06-2018 - Handbook 1.7.7 - adding job descriptions for CTO and CDO.
