@@ -72,3 +72,4 @@ From time to time this handbook will be updated.  Minor changes in wording or fo
 * Mar-18-2018 - Handbook 1.7.5 - adding a note not to use confidential material of a 3rd-party.
 * Apr-28-2018 - Handbook 1.7.6 - updating the online privacy policy.
 * Aug-06-2018 - Handbook 1.7.7 - adding job descriptions for CTO and CDO.
+* Aug-21-2018 - Handbook 1.7.8 - adding a specific note about apprentice vacation policy.

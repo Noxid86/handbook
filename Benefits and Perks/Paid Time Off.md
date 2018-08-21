@@ -8,9 +8,13 @@ When vacation time is requested, it will be reviewed by your manager.  Every att
 
 PTO renews on the yearly anniversary of your start date. Up to 40 hours of unused PTO may be rolled over from one year to the next.
 
+### Apprentice Vacation
+
+Apprentices will receive 1 week of paid time off during their apprenticeship.  When they graduate to a junior position they will convert to the standard vacation policy above.
+
 ## Sick Days
 
-Sick days are tracked separately from paid-time-off and are governed by an accrual process.  For each 40 hours worked within a calendar year employees accrue 1 hour of paid sick time.  Time beyond these accrued sick hours will pull from paid-time-off.  All sick days must be recorded as such in the company's HR system, [Zenefits](https://www.zenefits.com/).  For extended illnesses (beyond 8 days) you may use your short-term disability insurance.
+Sick days are tracked separately from paid-time-off (including apprentices) and are governed by an accrual process.  For each 40 hours worked within a calendar year employees accrue 1 hour of paid sick time.  Time beyond these accrued sick hours will pull from paid-time-off.  All sick days must be recorded as such in the company's HR system, [Zenefits](https://www.zenefits.com/).  For extended illnesses (beyond 8 days) you may use your short-term disability insurance.
 
 ## Conference Days
 
